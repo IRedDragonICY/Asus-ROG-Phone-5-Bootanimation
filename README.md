@@ -4,7 +4,7 @@
 Make your startup like ROG phone.
 
 # Installation
-1. [Download](https://github.com/IRedDragonICY/Asus-ROG-Phone-5-Bootanimation/releases/download/v1.0/Asus_ROG_Phone_5_Bootanimation.zip) magisk module first.
+1. [Download](https://github.com/IRedDragonICY/Asus-ROG-Phone-5-Bootanimation/releases/download/v1.1/Asus_ROG_Phone_5_Bootanimation.zip) magisk module first.
 2. Flash modules from Magisk app.
 3. Reboot and now you have phone like ROG 😁
 
