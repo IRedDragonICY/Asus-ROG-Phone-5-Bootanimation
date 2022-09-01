@@ -4,7 +4,7 @@
 Make your startup like ROG phone.
 
 # Download
-Click here to download
+Click [here]() to download.
 # Thanks to
 
 **[@vinotux](https://forum.xda-developers.com/m/vinotux.11534853/)** for bootanimation.zip
