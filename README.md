@@ -9,6 +9,7 @@ Make your startup like ROG phone.
 3. Reboot and now you have phone like ROG 😁
 
 # Preview
+![](https://github.com/IRedDragonICY/Asus-ROG-Phone-5-Bootanimation/blob/main/Media/Asus_ROG_Phone_5_Bootanimation.gif?raw=true)
 
 # Thanks to
 
