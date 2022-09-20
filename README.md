@@ -8,7 +8,7 @@ Make your startup like ROG phone.
 2. Flash modules from Magisk app.
 3. Reboot and now you have phone like ROG 😁
 
-# Screenshot
+# Preview
 
 # Thanks to
 
