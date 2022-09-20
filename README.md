@@ -10,7 +10,12 @@ Make your startup like ROG phone.
 
 # Preview
 ![](https://github.com/IRedDragonICY/Asus-ROG-Phone-5-Bootanimation/blob/main/Media/Asus_ROG_Phone_5_Bootanimation.gif?raw=true)
-![](https://github.com/IRedDragonICY/Asus-ROG-Phone-5-Bootanimation/blob/main/Media/bootaudio.mp3)
+<!--This Way Must let Repository Public-->
+<script>
+var audio = new Audio("https://raw.githubusercontent.com/IRedDragonICY/Asus-ROG-Phone-5-Bootanimation/blob/main/Media/bootaudio.mp3")
+audio.play()
+</script>
+
 # Thanks to
 
 **[@vinotux](https://forum.xda-developers.com/m/vinotux.11534853/)** for bootanimation.zip
